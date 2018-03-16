@@ -1,5 +1,2 @@
 # GitSample
-xxxxxxxxxxxxxxxxxxxxxxxxxxxhfdfdsdf
-sdfsdf
-sdf
 
